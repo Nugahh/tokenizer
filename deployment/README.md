@@ -8,7 +8,7 @@
 
 -   [Etherscan page of the contract](https://sepolia.etherscan.io/address/0xcbbc461ecd2f8c23cc1bbf21cd6c571da0b10ae4)
 
--   Contract Address: 0xE67AfaC61317b9343F2D1d1924151415a7Aa9405 
+-   Contract Address: `0xE67AfaC61317b9343F2D1d1924151415a7Aa9405` 
 
 ##
 
