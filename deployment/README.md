@@ -40,6 +40,6 @@
 
 3. Select the environment `Injected Provider - MetaMask` to connect you MetaMask wallet and the account you want to deploy the contract from in the `Deploy` section.
 
-4. In the `At Address` field, enter the address of the contract `0xE67AfaC61317b9343F2D1d1924151415a7Aa9405 	`, and click on the `At Address` button.
+4. In the `At Address` field, enter the address of the contract `0xE67AfaC61317b9343F2D1d1924151415a7Aa9405`, and click on the `At Address` button.
 
 5. The contract is now deployed and you can interact with it functions in the `Deployed/Unpinned Contracts` section of the IDE.
