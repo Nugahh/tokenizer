@@ -50,7 +50,7 @@ tokenizer
 
 ### File content
 
--   **_42DK.sol_**: This file contains the Solidity code for the ERC20 token.
+-   **_Token42.sol_**: This file contains the Solidity code for the ERC20 token.
 
 -   **_DEPLOYMENT.md_**: This file contains the requirents needed to deploy the ERC20 token on the Sepolia testnet using Remix IDE, MetaMask wallet, and Etherscan blockchain explorer.
 

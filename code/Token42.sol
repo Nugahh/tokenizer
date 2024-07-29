@@ -24,7 +24,7 @@ contract Token42 is ERC20, ERC20Burnable, Ownable {
      * @param initialOwner The address that will be set as the initial owner of the contract.
      */
     constructor(address initialOwner)
-        ERC20("Token42", "T42") // Initializes the token with the name "42DK" and symbol "42DK".
+        ERC20("Token42", "T42") // Initializes the token with the name "Token42" and symbol "T42".
         Ownable(initialOwner) // Sets the initial owner of the contract to the provided address.
     {}
 

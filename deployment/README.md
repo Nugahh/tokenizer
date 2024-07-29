@@ -18,7 +18,7 @@
 
 2. Copy the code from the `Token42.sol` file in the `contracts` folder of this repository and paste it into the Remix IDE.
 
-3. Go on the `Solidity compiler` tab and compile the contract by clicking on the `Compile contract/42DK.sol` button on the left side of the IDE.
+3. Go on the `Solidity compiler` tab and compile the contract by clicking on the `Compile contract/Token42.sol` button on the left side of the IDE.
 
 4. Deploy the contract by clicking on the `Deploy & run transactions` tab on the left side of the IDE.
 
@@ -34,7 +34,7 @@
 
 ### Interact with the contract if it has already been deployed once
 
-1. Open the Remix IDE and go on the `Solidity compiler` tab and compile the contract by clicking on the `Compile contract/42DK.sol` button on the left side of the IDE.
+1. Open the Remix IDE and go on the `Solidity compiler` tab and compile the contract by clicking on the `Compile contract/Token42.sol` button on the left side of the IDE.
 
 2. Go to the `Deploy & run transactions` tab on the left side of the IDE.
 
